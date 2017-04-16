@@ -1,0 +1,13 @@
+15 = AE = Albert Einstein, writing on a blackboard
+18 = AH = Adolf Hitler, sieg-heiling
+20 = BO = Buddha, sitting cross-legged under the Bo tree
+21 = BA = Bill Atkinson (Macintosh developer), breaking into pixels
+33 = CC = Charlie Chaplin, twirling his cane and waddling
+43 = DC = George Washington, chopping down cherry tree (Washington DC)
+70 = GO = God (bearded sky-god), throwing thunderbolt
+74 = GD = Gandhi, spinning on a wheel
+75 = GE = General Electric (a robot in uniform), saluting
+77 = GG = Gandalf the Grey (_The Lord of the Rings_), barring the way
+80 = HO = Santa Claus, laughing until his belly shakes (HO HO HO!)
+85 = HE = Isaac Newton (long white wig), releasing helium balloons (Newtonmas, HE HE HE!)
+87 = HG = Mercury (Greek god), flying with winged sandals (Hg = chemical symbol for mercury)
